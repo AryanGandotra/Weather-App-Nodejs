@@ -1,4 +1,4 @@
-# Weather-App-Nodejs
+# Weather App Using Nodejs
 
 This repository contains the source code and assets for a Weather Web App developed using HTML, Node.js, and the OpenWeather API. The app allows users to check the current weather conditions.
 
